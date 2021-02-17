@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T09:36:55.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="8_PYqN8zAFTc2QC-o7GK" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T09:45:15.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="zBXq7BtQl6kHtgdPgHq0" version="14.1.8" type="github" pages="2">
   <diagram id="Ek_pWGYB22L2BVswsfD9" name="Page-1">
-    <mxGraphModel dx="546" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1460" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,20 +275,26 @@
         <mxCell id="l17dxkoL9CuM4ShfzCYQ-19" value="Pengelompokan mutu biji pala&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
           <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-20" target="HSTE3sbBlzSv-psnjE-E-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l17dxkoL9CuM4ShfzCYQ-20" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan Biji Pala" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
           <mxGeometry x="330" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-21" target="HSTE3sbBlzSv-psnjE-E-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l17dxkoL9CuM4ShfzCYQ-21" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan fuli" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
           <mxGeometry x="629" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l17dxkoL9CuM4ShfzCYQ-22" value="SOP Pengelompokan pala dan fuli" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-22" value="SOP Pengelompokan pala&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
           <mxGeometry x="144" y="377.06" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="l17dxkoL9CuM4ShfzCYQ-23" value="SOP Pengelompokan biji pala" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
-          <mxGeometry x="420" y="555" width="130" height="30" as="geometry" />
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-23" value="SOP Pengelompokan mutu biji pala" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="425" y="555" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l17dxkoL9CuM4ShfzCYQ-24" value="SOP Pengemasan, pelabelan dan penyimpanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
-          <mxGeometry x="630" y="720" width="130" height="30" as="geometry" />
+          <mxGeometry x="690" y="720" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l17dxkoL9CuM4ShfzCYQ-25" value="SOP Pengemasan, pelabelan dan penyimpanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
           <mxGeometry x="410" y="720" width="130" height="30" as="geometry" />
@@ -301,6 +307,9 @@
         </mxCell>
         <mxCell id="QGE8P0rNUXDMbXsNLgXJ-2" value="Pala" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
           <mxGeometry x="130" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="QGE8P0rNUXDMbXsNLgXJ-4" target="HSTE3sbBlzSv-psnjE-E-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QGE8P0rNUXDMbXsNLgXJ-4" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan Pala Pala" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
           <mxGeometry x="110" y="650" width="120" height="60" as="geometry" />
@@ -359,7 +368,7 @@
           <mxGeometry x="684" y="400" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HSTE3sbBlzSv-psnjE-E-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;routingCenterX=-0.5;rounded=0;rotation=90;fillColor=none;strokeColor=#006633;strokeWidth=5;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
-          <mxGeometry x="-260.16" y="356.4" width="705.32" height="25" as="geometry" />
+          <mxGeometry x="-317.58" y="413.82" width="820.16" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HSTE3sbBlzSv-psnjE-E-2" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
           <mxGeometry x="26.5" y="377.06" width="27" height="34" as="geometry" />
@@ -374,16 +383,57 @@
           <mxGeometry x="470" y="305" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HSTE3sbBlzSv-psnjE-E-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;routingCenterX=-0.5;rounded=0;rotation=90;fillColor=none;strokeColor=#006633;strokeWidth=5;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
-          <mxGeometry x="-83.16" y="940" width="348.16" height="25" as="geometry" />
+          <mxGeometry x="19.21" y="1042.37" width="143.42" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HSTE3sbBlzSv-psnjE-E-15" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
-          <mxGeometry x="20" y="906" width="27" height="34" as="geometry" />
+          <mxGeometry x="19.21" y="1010" width="27" height="34" as="geometry" />
         </mxCell>
         <mxCell id="HSTE3sbBlzSv-psnjE-E-16" value="Staf Gudang Bogor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
-          <mxGeometry x="13.5" y="960" width="40" height="20" as="geometry" />
+          <mxGeometry x="12.71" y="1060" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HSTE3sbBlzSv-psnjE-E-18" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan Pala Pala" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
-          <mxGeometry x="120" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="HSTE3sbBlzSv-psnjE-E-18" target="HSTE3sbBlzSv-psnjE-E-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-18" value="Pengiriman" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="391" y="878.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="HSTE3sbBlzSv-psnjE-E-20" target="HSTE3sbBlzSv-psnjE-E-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-20" value="Pala Siap Kirim&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Pala%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22460%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="134" y="760" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="HSTE3sbBlzSv-psnjE-E-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.0000000000002" y="880.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-21" value="Biji Pala Siap Kirim&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Pala%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22460%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="355" y="760" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="HSTE3sbBlzSv-psnjE-E-22" target="HSTE3sbBlzSv-psnjE-E-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-22" value="Fuli Siap Kirim&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Pala%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22460%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="653" y="760" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-27" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;routingCenterX=-0.5;rounded=0;rotation=90;fillColor=none;strokeColor=#006633;strokeWidth=5;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="34.21" y="887.5" width="113.42" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-28" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="19.21" y="878.5" width="27" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-29" value="Kargo/ Jasa Pengiriman&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="13.5" y="920" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-33" value="Penerimaan Barang Datang" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="391" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-34" value="SOP Pengeluaran Produk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="461" y="857.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HSTE3sbBlzSv-psnjE-E-37" value="SOP Penerimaan Barang Datang" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="502.58000000000004" y="1025" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
