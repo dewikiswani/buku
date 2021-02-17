@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T09:16:25.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="YKLSgE97ZfZvgdDiv9Hs" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T09:23:12.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="6NNIDUgwKyplBnNUAnZ7" version="14.1.8" type="github" pages="2">
   <diagram id="Ek_pWGYB22L2BVswsfD9" name="Page-1">
     <mxGraphModel dx="1117" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           <mxGeometry x="530" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="re8lVaWSiEf7pyco6TmE-54" value="Daging Pala" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="570" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="re8lVaWSiEf7pyco6TmE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="re8lVaWSiEf7pyco6TmE-58" target="re8lVaWSiEf7pyco6TmE-63">
           <mxGeometry relative="1" as="geometry">
@@ -199,12 +199,108 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7XaVt_VRPbeBqnbbFjGH" name="Page-2">
-    <mxGraphModel dx="1117" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="203" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="k2lOzBCthUA0DbRwTOOI-0" />
         <mxCell id="k2lOzBCthUA0DbRwTOOI-1" parent="k2lOzBCthUA0DbRwTOOI-0" />
-        <mxCell id="jr0PWVAJp8uxGOUueb89-0" value="Pala" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
-          <mxGeometry x="110" y="40" width="80" height="80" as="geometry" />
+        <mxCell id="QGE8P0rNUXDMbXsNLgXJ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="jr0PWVAJp8uxGOUueb89-0" target="l17dxkoL9CuM4ShfzCYQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr0PWVAJp8uxGOUueb89-0" value="Pala Kering&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="144" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGE8P0rNUXDMbXsNLgXJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="jr0PWVAJp8uxGOUueb89-1" target="l17dxkoL9CuM4ShfzCYQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr0PWVAJp8uxGOUueb89-1" value="Biji Pala Kering" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="394" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jr0PWVAJp8uxGOUueb89-2" value="Fuli Kering" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="644" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-3" target="l17dxkoL9CuM4ShfzCYQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-3" value="Pengukuran kadar air" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-5" target="l17dxkoL9CuM4ShfzCYQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-5" value="Pengelompokan mutu pala&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" target="l17dxkoL9CuM4ShfzCYQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600.0000000000002" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-9" target="l17dxkoL9CuM4ShfzCYQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-9" value="Pengukuran kadar air" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="540" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-11" target="l17dxkoL9CuM4ShfzCYQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-11" value="Pengelompokan mutu fuli" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="540" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-14" target="l17dxkoL9CuM4ShfzCYQ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGE8P0rNUXDMbXsNLgXJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-14" target="QGE8P0rNUXDMbXsNLgXJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-14" value="Pemecahan Cangkang" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="230" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-16" target="l17dxkoL9CuM4ShfzCYQ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-16" value="Biji Pala" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="350" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="l17dxkoL9CuM4ShfzCYQ-19" target="l17dxkoL9CuM4ShfzCYQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-19" value="Pengelompokan mutu biji pala&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-20" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan Biji Pala" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="330" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-21" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan fuli" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="540" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-22" value="SOP Pengelompokan pala dan fuli" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="390" y="335" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-23" value="SOP Pengelompokan biji pala" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="450" y="585" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-24" value="SOP Pengemasan, pelabelan dan penyimpanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="630" y="720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-25" value="SOP Pengemasan, pelabelan dan penyimpanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="410" y="720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l17dxkoL9CuM4ShfzCYQ-26" value="SOP Pengemasan, pelabelan dan penyimpanan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="180" y="720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGE8P0rNUXDMbXsNLgXJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="k2lOzBCthUA0DbRwTOOI-1" source="QGE8P0rNUXDMbXsNLgXJ-2" target="QGE8P0rNUXDMbXsNLgXJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGE8P0rNUXDMbXsNLgXJ-2" value="Biji Pala" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="130" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGE8P0rNUXDMbXsNLgXJ-4" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan Biji Pala" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k2lOzBCthUA0DbRwTOOI-1">
+          <mxGeometry x="110" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
