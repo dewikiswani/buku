@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T08:28:16.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="6XZdG5jFXr0U26dhOAHc" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T08:30:55.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ljkGADqR7D0bcodKWdmH" version="14.1.8" type="github">
   <diagram id="Ek_pWGYB22L2BVswsfD9" name="Page-1">
     <mxGraphModel dx="651" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry x="380" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="re8lVaWSiEf7pyco6TmE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="re8lVaWSiEf7pyco6TmE-5" target="re8lVaWSiEf7pyco6TmE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="re8lVaWSiEf7pyco6TmE-5" target="re8lVaWSiEf7pyco6TmE-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="re8lVaWSiEf7pyco6TmE-5" value="Pemisahan Daging buah pala&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -85,6 +88,9 @@
         <mxCell id="re8lVaWSiEf7pyco6TmE-31" value="Pengukuran kadar air" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="re8lVaWSiEf7pyco6TmE-32" target="re8lVaWSiEf7pyco6TmE-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="re8lVaWSiEf7pyco6TmE-32" value="Pengelompokan mutu fuli" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="680" width="120" height="60" as="geometry" />
         </mxCell>
@@ -107,11 +113,35 @@
         <mxCell id="re8lVaWSiEf7pyco6TmE-34" value="Pemecahan Cangkang" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="760" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="re8lVaWSiEf7pyco6TmE-41" target="re8lVaWSiEf7pyco6TmE-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="re8lVaWSiEf7pyco6TmE-41" value="Biji Pala" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="820" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="re8lVaWSiEf7pyco6TmE-44" target="re8lVaWSiEf7pyco6TmE-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="re8lVaWSiEf7pyco6TmE-44" value="Pala" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="re8lVaWSiEf7pyco6TmE-45" target="re8lVaWSiEf7pyco6TmE-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-45" value="Pengelompokan mutu biji pala&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-47" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan Biji Pala" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-49" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan Pala" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-51" value="Pengemasan, Pelabelan &amp;amp; Penyimpanan fuli" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="re8lVaWSiEf7pyco6TmE-54" value="Daging Pala" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
